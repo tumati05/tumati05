@@ -1,6 +1,4 @@
  Hi, I’m @tumati05
-I’m interested in Data science
-I’m progressing in the way of beacoming a data scientist
 Email:tejasritumati@gmail.com
 
 <!---
